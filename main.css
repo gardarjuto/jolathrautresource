@@ -70,6 +70,9 @@ img {
 }
 
 .blur {
+    animation: none;
+    background: transparent;
+    border: none;
   -webkit-filter: blur(15px);
   -moz-filter: blur(15px);
   -o-filter: blur(15px);
